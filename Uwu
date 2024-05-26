@@ -1,4 +1,4 @@
-local hwidKeys = loadstring(game:HttpGet("pastebin"))()
+local hwidKeys = loadstring(game:HttpGet("https://pastebin.com/raw/vSRx0zii"))()
 local hwid = hwidstuff here
 
 
