@@ -1,3 +1,12 @@
+local hwidKeys = loadstring(game:HttpGet("pastebin"))()
+local hwid = hwidstuff here
+
+
+If table.find(hwidKeys, hwid then
+ loadscript()
+else
+ Print("not whitelisted contact qzxred on discord")
+end
 -- Creating the ScreenGui
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "InjectMenu"
