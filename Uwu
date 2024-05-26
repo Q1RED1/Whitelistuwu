@@ -92,5 +92,8 @@ end)
 
 createButton("Aimlock", 305, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Q1RED1/Aimlock/main/Custom"))()
+end)
+
+createButton("q tool (use AFTER aimlock", 380, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/qtoolv3/main/qtoolv3", true))()
 end)
