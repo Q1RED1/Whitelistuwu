@@ -106,9 +106,9 @@ local function createButton(text, position, callback)
 end
 
 -- Creating buttons with their respective functions
-createButton("Bate.cc lock", 100, function()
+createButton("Bate.cc camlock", 100, function()
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ianasmite/Pogisimark/main/Vamp.ggopw"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Q1RED1/Camlock/main/Cam"))()
 end)
 
 createButton("bate.cc silent", 170, function()
