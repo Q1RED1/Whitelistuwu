@@ -27,13 +27,6 @@ local function processHWID(hwid)
         handleAccessDenied(hwid)
     end
 end
-
--- Simulate reading HWID from user input (replace with actual method)
-io.write("Enter your HWID to check: ")
-local userHWID = io.read()
-
--- Process the provided HWID
-processHWID(userHWID)
 -- Creating the ScreenGui
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "InjectMenu"
