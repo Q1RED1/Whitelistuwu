@@ -4,6 +4,11 @@
 local whitelist = {
     ["1fbc2289-1f18-48c4-9b51-4a6001c8bbfe"] = true,
     ["98765432"] = true,
+    ["98765432"] = true,
+    ["98765432"] = true,
+    ["98765432"] = true,
+    ["98765432"] = true,
+    ["98765432"] = true,
     -- Add more trusted HWIDs as needed
 }
 
