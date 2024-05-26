@@ -82,7 +82,7 @@ createButton("Bate.cc lock", 100, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Ianasmite/Pogisimark/main/Vamp.ggopw"))()
 end)
 
-createButton("bate silent", 170, function()
+createButton("bate.cc silent", 170, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Ianasmite/Pogisimark/main/Vamp.gg%20world"))()
 end)
 
@@ -91,5 +91,5 @@ createButton("Esp/visual", 240, function()
 end)
 
 createButton("Aimlock", 305, function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ianasmite/Pogisimark/main/vamp%20whitelist"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Q1RED1/Aimlock/main/Custom"))()
 end)
