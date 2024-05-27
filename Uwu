@@ -1,6 +1,6 @@
 -- Define a table to store whitelisted HWIDs
 -- 1=qzxred
--- 2=leocap
+-- 2=leocap 2d
 -- 3=aizen0328
 -- 4=
 local whitelist = {
