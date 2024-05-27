@@ -2,8 +2,8 @@
 
 -- Define a table to store whitelisted HWIDs
 local whitelist = {
-    ["1fbc2289-1f18-48c4-9b51-4a6001c8bbfe"] = true,
-    ["98765432"] = true,
+    ["1fbc2289-1f18-48c4-9b51-4a6001c8bbfe"] = true,  -- nil
+    ["44a83ad5-0546-4a94-819c-3f1752a10cd5"] = true,  -- 2d 7:38am gbt
     ["98765432"] = true,
     ["98765432"] = true,
     ["98765432"] = true,
