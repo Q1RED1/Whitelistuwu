@@ -1,9 +1,11 @@
--- Advanced HWID Whitelist System in Lua
-
 -- Define a table to store whitelisted HWIDs
+-- 1=qzxred
+-- 2=leocap
+-- 3=
+-- 4=
 local whitelist = {
-    ["1fbc2289-1f18-48c4-9b51-4a6001c8bbfe"] = true,  -- nil
-    ["44a83ad5-0546-4a94-819c-3f1752a10cd5"] = true,  -- 1d 7:38am gbt
+    ["1fbc2289-1f18-48c4-9b51-4a6001c8bbfe"] = true,
+    ["44a83ad5-0546-4a94-819c-3f1752a10cd5"] = true,
     ["98765432"] = true,
     ["98765432"] = true,
     ["98765432"] = true,
