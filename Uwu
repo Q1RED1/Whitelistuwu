@@ -1,11 +1,11 @@
 -- Define a table to store whitelisted HWIDs
 -- 1=qzxred
--- 2=leocap 2d
+-- 2=leocap 
 -- 3=aizen0328
--- 4=
+-- 4= satoru
 local whitelist = {
     ["1fbc2289-1f18-48c4-9b51-4a6001c8bbfe"] = true,
-    ["44a83ad5-0546-4a94-819c-3f1752a10cd5"] = false,
+    ["44a83ad5-0546-4a94-819c-3f1752a10cd5"] = true,
     ["340af96e-f982-4e4b-83d5-e932e4db5d08"] = true,
     ["98765432"] = true,
     ["98765432"] = true,
